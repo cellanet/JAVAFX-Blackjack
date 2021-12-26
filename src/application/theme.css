@@ -1,0 +1,25 @@
+.root
+{
+    -fx-background-color:Green;
+}
+
+.label {
+   -fx-font-size: 13pt;
+   -fx-font-weight: bold;
+   -fx-text-fill: white;
+
+}
+
+.menu .label
+{
+    -fx-text-fill: black;
+}
+
+.menu-item .label{
+    -fx-text-fill: green;
+}
+
+.text-field{
+   -fx-font-size: 13pt;
+   -fx-font-weight: bold;
+}
